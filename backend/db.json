@@ -1,0 +1,15 @@
+{
+  "vendedor": [
+    {
+      "id": 1,
+      "nome": "David Santos",
+      "telefone": "1234567890"
+    }
+  ],
+  "laboratorio": [
+    {
+      "id": 1,
+      "nome": "Lapon"
+    }
+  ]
+}
